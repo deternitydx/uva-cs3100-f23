@@ -12,8 +12,8 @@ nav_order: 1
 
 Instructor: Tom Horton 
 - Email: horton_at_virginia.edu
-- Office: Rice 
-- Office Hours:
+- Office: Rice 401
+- Office Hours: TBD
     - TBD 
 
 Instructor: Robbie Hott
