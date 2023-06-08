@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	
+	<title>CS 4640</title>
+	<subtitle>Programming Languages for Web Applications
+</subtitle>
+	<link href="/atom.xml" rel="self" />
+	<link href="/" />
+	<id>/</id>
+	<updated>2023-06-06T16:10:25-04:00</updated>
+  
+</feed>

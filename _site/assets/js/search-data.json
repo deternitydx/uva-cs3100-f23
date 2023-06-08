@@ -1,0 +1,58 @@
+{"0": {
+    "doc": "FAQ",
+    "title": "Frequently Asked Questions",
+    "content": "Answers to common questions about CS 4640 in general and our semester in particular. We’ll update this page throughout the semester with additional questions and comments, so please check back often! . General Questions . Why are we using PHP? . Coming soon . Why not use Django? React? Java? Ruby? . Coming soon . Why use PostgresSQL instead of MySQL or MSSQL? . Coming soon . ",
+    "url": "/~jh2jf/courses/cs4640/fall2023/faq.html#frequently-asked-questions",
+    
+    "relUrl": "/faq.html#frequently-asked-questions"
+  },"1": {
+    "doc": "FAQ",
+    "title": "FAQ",
+    "content": " ",
+    "url": "/~jh2jf/courses/cs4640/fall2023/faq.html",
+    
+    "relUrl": "/faq.html"
+  },"2": {
+    "doc": "Home",
+    "title": "Programming Languages for Web Applications",
+    "content": "Course Overview: Web development is constantly changing as our use of the world wide web (WWW) has shifted from information presentation to direct customer sales (e-commerce) to enterprise applications to information gathering to mobile sites and apps. The amount and complexity of software–and the number of programming languages–has steadily been increasing. Many new technologies and frameworks have emerged everyday. Have you ever wondered what technologies, frameworks, or architectural styles you should use? How about what programming languages to be familiar with for software development for web applications? After graduation, what languages will be popular or in demand? How will you keep up with web development technologies? . ",
+    "url": "/~jh2jf/courses/cs4640/fall2023/#programming-languages-for-web-applications",
+    
+    "relUrl": "/#programming-languages-for-web-applications"
+  },"3": {
+    "doc": "Home",
+    "title": "Getting Connected",
+    "content": "Instructor: Robbie Hott . | Email: jrhott_at_virginia.edu | Office: Rice 210 | Office Hours: . | TBD | . | . ",
+    "url": "/~jh2jf/courses/cs4640/fall2023/#getting-connected",
+    
+    "relUrl": "/#getting-connected"
+  },"4": {
+    "doc": "Home",
+    "title": "Overview",
+    "content": "In this course, we will focus on the fundamental concepts of web development and how they can be applied to develop reliable and usable web software, regardless of the technologies, lanuages, or frameworks. Even though we will emphasize the concepts, you will develop dynamic web software with several commonly used programming languages and technologies. Over the semester, you will work on user interface design, front end development, back end development, and web-based information retrieval and processing. Course Description: Presents programming languages and implementations used in developing web applications. Both client and server side languages are presented as well as database languages. In addition, frameworks that enable interactive web pages are discussed as well as formatting languages. Language features and efficiencies including scoping, parameter passing, object orientation, just in time compilation and dynamic binary translation are included. Prerequisites: CS 2150 or CS 3140 with a grade of C- or higher. A willingness to learn and participate in a small-group project. Languages Covered . We will discuss in detail and use the following languages (and formats): HTML, CSS, Javascript, PHP, SQL, JSON . We may mention other languages (and formats) in passing, including: SGML, XML, XHTML, LESS, SASS/SCSS, Markdown, JSON-LD, SPARQL, Perl, Ruby, Go, NodeJS . ",
+    "url": "/~jh2jf/courses/cs4640/fall2023/#overview",
+    
+    "relUrl": "/#overview"
+  },"5": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/~jh2jf/courses/cs4640/fall2023/",
+    
+    "relUrl": "/"
+  },"6": {
+    "doc": "Schedule",
+    "title": "Semester Schedule",
+    "content": "The schedule will be flexible as we cover each topic. We might spend some extra time on topics, so we will update the schedule as we progress through the semester. | Mtg | Date | Topic | Notes | . | 1 | 8/22/2023 | Introduction. World Wide What? A history. | | . | 2 | 8/24/2023 | A brief history, Networks, and HTTP Readings: - Slides: | | . | 3 | 8/29/2023 | What is the web software model? | | . | 4 | 8/31/2023 | What is important to consider when designing a website? | | . | 5 | 9/5/2023 | Design, Introduction to HTML, How did we get here? | | . | 6 | 9/7/2023 | History of HTML, HTML features, Designing HTML | | . | 7 | 9/12/2023 | Cascading Style Sheets (CSS), Responsive design | | . | 8 | 9/14/2023 | Extending CSS Scripting with LESS, SCSS | | . | 9 | 9/19/2023 | SCSS, LESS, Bootstrap | | . | 10 | 9/21/2023 | Markdown, XML, JSON | | . | | | Server-Side Processing | | . | 11 | 9/26/2023 | Server-side processing a history (CGI, Perl, PHP, Ruby, Python) | | . | 12 | 9/28/2023 | Introduction to PHP | | . | | 10/3/2023 | Fall Reading Days | | . | 13 | 10/5/2023 | PHP arrays, forms, Regular expressions | | . | 14 | 10/10/2023 | Data processing files (CSV, JSON, XML), APIs | | . | 15 | 10/12/2023 | Object-oriented PHP, Front Controller Design, Maintaining state | | . | 16 | 10/17/2023 | Maintaining state, Databases | | . | 17 | 10/19/2023 | Databases, Frameworks | | . | | | Client-Side Processing | | . | 18 | 10/24/2023 | Client-side scripting Introduction to JavaScript | | . | 19 | 10/26/2023 | JavaScript arrays, functions, objects | | . | 20 | 10/31/2023 | JavaScript DOM, events, forms | | . | 21 | 11/2/2023 | JavaScript DOM, events, local storage | | . | | 11/7/2023 | Election Day | | . | 22 | 11/9/2023 | AJAX calls with PHP and JSON, JQuery | | . | | | Client-side Frameworks | | . | 23 | 11/14/2023 | JQuery, TypeScript, Intro to frameworks | | . | 24 | 11/16/2023 | Introduction to Angular | | . | 25 | 11/21/2023 | Angular Forms, Data binding | | . | | 11/23/2023 | Thanksgiving | | . | 26 | 11/28/2023 | Angular HttpClient, Services | | . | 27 | 11/30/2023 | Project Presentations / Showcase | | . | 28 | 12/5/2023 | What does the future of the web look like? | | . | | 12/14/2023 | Final Exam (9am-12pm) | | . ",
+    "url": "/~jh2jf/courses/cs4640/fall2023/schedule.html#semester-schedule",
+    
+    "relUrl": "/schedule.html#semester-schedule"
+  },"7": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/~jh2jf/courses/cs4640/fall2023/schedule.html",
+    
+    "relUrl": "/schedule.html"
+  }
+}

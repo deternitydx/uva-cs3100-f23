@@ -1,0 +1,141 @@
+- group: Head TAs
+  people:
+    - name: August Bresnaider (he/him)
+      role: Head TA for Lab
+      picture: images/tas/august-256x256.png
+      tagline: Some people learn by reading. Others learn by observation. The rest have to pee on the electric fence.
+      askme: Labs and more.
+      tips: Take your time! Be patient with yourself! CSO1 is difficult, but we're here to help you along your way this semester.
+    - name: Aaryan Dhore (he/him)
+      role: Head TA for Grading
+      picture: images/tas/aaryan-256x256.jpg
+      askme: x86 assembly, memory allocation, and C. 
+      tips: Everything builds; don't move forward until you understand the basics.
+    - name: Paul Karhnak (he/him)
+      role: Head TA for Piazza and Discord
+      picture: images/tas/paul-256x256.JPG
+      tagline: Better Call Paul!
+      askme: C (including pointers, structs, and memory errors), logic gates, and hardware.
+      tips: I cannot recommend office hours enough. Talking through your questions with the professor or TAs really helps you get a solid grasp on the material.
+    - name: Srilakshmi Medarametla (she/her)
+      role: Head TA for Office Hours
+      picture: images/tas/srilakshmi-256x256.JPG
+      tagline: To find the three-legged elephant, look in the spiky grass.
+      askme: Office hours scheduling and more.
+      tips: Be present.
+- group: Lab Leads
+  people: 
+    - name: Brian Baugher
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Saarthak Gupta (he/him)
+      picture: images/tas/saarthak-256x256.jpeg
+      tagline: I wish everyone a segfault-free semester. 
+      askme: x86-64, machine code, and C.
+      tips: Consistently engage with the material and you'll be fine.
+    - name: Matthew Haid
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Gabriel Jackson (he/him)
+      picture: images/tas/gabriel-256x256.jpeg
+      tagline: Everything gets easier with time.
+      askme: Anything dealing with memory.
+      tips: Start homeworks right when they're released.
+    - name: Agi Luong
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Jiaji Ma
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Lukas Peng
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Alex Viar (he/him)
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Brandon Yang
+      picture: images/tas/pcb-stock-cropped.jpg
+- group: TAs
+  people:
+    - name: Conrad Byrne
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Kaicheng Chu
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Frances Dai
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Hayley Davis (she/her)
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Mouad Elmellouki
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Dhriti Gampa (she/her)
+      picture: images/tas/dhriti-256x256.JPG
+      tagline: I'm here to help so just be a little patient with me and tell me if what I'm saying makes no sense.
+      askme: Toy ISA because I fully ended up memorizing the chart last year.
+      tips: The best way to debug homework is by plugging in real values and going line by line and ask questions!
+    - name: Shengming "Happy" Gao (he/him)
+      picture: images/tas/shengming-256x256.jpg
+      tagline: My sister is way taller than me. 
+      askme: x86-64 assembly, memory allocation, and C/C++.
+      tips: Start homeworks early, early, early.
+    - name: Srikar Gouru (he/him)
+      picture: images/tas/srikar-256x256.jpeg
+      tagline: Pressure makes diamonds, but bread dough rises when you let it rest. So yeah, just sleep.
+      askme: Toy ISA, x86-64 assembly, and C.
+      tips: Make sure you understand the beginning material early, or everything will just get harder as you go on!
+    - name: Allie Kim (she/her)
+      picture: images/tas/allie-256x256.JPG
+      tagline: Practice makes permanent. 
+      askme: ISA, assembly, and C.
+      tips: Don't procrastinate on assignments, start early.
+    - name: Annabel Li
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Eric Li
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Liran "Stephen" Li (he/him)
+      picture: images/tas/liran-256x256.jpg
+      tagline: 1% de chance, 99% de fe.
+      askme: Toy ISA and assembly. 
+      tips: Practice your C code on your computer as much as possible, although there is a good chance you will see "Segmentation fault".
+    - name: Zhiang Li
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Anisha Mahuli (she/her)
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Jinwen "Linda" Mu
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Siyuan "Caesar" Ning
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Rushvi Patel
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Devang Ray (he/him)
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Byron Richards
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Jenny Schilling (she/her)
+      picture: images/tas/jenny-256x256.JPG
+      tagline: Just because I'm a computer programmer does not mean I can fix your TV. I mean, I can, but not because I'm a programmer!
+      askme: Binary arithmetic, bitwise, hex, machine code/assembly. 
+      tips: Do the readings! They contain so many more helpful hints and answers than you'd expect.
+    - name: James Siegener
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Theo Singletary (he/him)
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Vincent Song (he/him)
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Libby Trainum (she/her)
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Saidamir Umarkhodjaev
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Eddie Wei (he/him)
+      picture: images/tas/eddie-256x256.JPG
+      askme: Bitwise operations, pointers, and C.
+      tips: I highly recommend writing down frequently used information somewhere accessible like a notebook. This information could include a hex to binary conversion table, a two's complement/biassed/unsigned binary integer table, a units table, and a common x86 registers and instructions table.
+    - name: Jolin Xu
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Ian Yeaton (he/him)
+      picture: images/tas/ian-256x256.JPG
+      tagline: Drink water.
+      askme: Assembly linking to C.
+      tips: Master the basics, the course content will build on itself.
+    - name: Ben Yeh (he/him)
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Haizhou "Trevor" Yu
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Omar Zeineddine
+      picture: images/tas/pcb-stock-cropped.jpg
+    - name: Yichi Zhang (he/him)
+      picture: images/tas/yichi-256x256.jpg
+      tagline: int main() { printf("Wahoo!\n"); return 0; }
