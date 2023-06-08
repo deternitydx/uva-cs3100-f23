@@ -4,7 +4,7 @@ description: >
 copyright: Tom Horton and John Hott
 baseurl: "/"
 email: "jh2jf@virginia.edu"
-theme: "just-the-docs"
+theme: just-the-docs
 search:
     button: true
 callouts:
