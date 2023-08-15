@@ -21,7 +21,7 @@ Thomas Horton
 - Office Hours:
     - TBD 
  
-> {.note}
+{: .note}
 > Course Email: cs3100@virginia.edu
 
 
