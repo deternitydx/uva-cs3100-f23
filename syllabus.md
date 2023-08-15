@@ -107,21 +107,6 @@ Different tasks and different task types are given different weight, as outlined
 
 #### PA and PS Assignments
 
-> **Updated Policy:**
-> It was our goal to be lenient with extensions this semester, so we
-> provided a guaranteed 48-hour extension without penalty for *all*
-> homework assignments.  However, there have been a large volume of
-> extension requests *after* the homework deadline, leading us to need
-> to change this policy.
->
-> - Extension requests must be made **24 hours before** the deadline.
->   - Requests must include a valid justification for the extension request.
->       - Some examples include SDAC accommodations, severe illness, religious observations, personal or family tragedy, legal obligations, varsity athletic competitions.
->       - This is *not* an exhaustive list; please request an extension if needed.
->   - Congestion of assignments with other courses, confusion on course material, non-working code, issues submitting to the autograder, and most forseeable or planned events scheduled on or after the due date are **not** sufficient justification for an extension.
-> - Extension requests made **less than 24 hours before** the deadline (or within 24 hours after the deadline) must also include a valid reason why the extension request **could not** be requested more than 24 hours before the deadline.
-> - Requests must be [submitted online](https://forms.gle/XEKpnxV3tTJHodyFA).
-
 PAs and PSs may be submitted up to 48 hours late, with permission, with no grade penalty.  However, the following policies apply to late submission:
 1. Requests must be submitted online using our [Extension Request Form]()
     - Requests must include a valid justification (such as SDAC accommodations, severe illness, religious observation, personal or family tragedy, etc)
