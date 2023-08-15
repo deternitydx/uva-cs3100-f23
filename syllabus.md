@@ -21,12 +21,12 @@ Thomas Horton
 - Office Hours:
     - TBD 
  
-{: .note }
+{: .notice }
 > Course Email: cs3100@virginia.edu
 
 
 For most communication, Piazza is preferred to email.
-If you email, include "CSO1" at the beginning of the subject line to help us prioritize your email.
+If you email, include "DSA2" at the beginning of the subject line to help us prioritize your email.
 
 Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours and lab time. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
 
