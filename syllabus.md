@@ -184,6 +184,20 @@ You should not share any code from an individual assignment.  That means you sho
 
 It would probably go without saying if we didn't say it, but no assistance may be given or received on any supervised evaluation or online quiz unless specifically announced otherwise by the professor (or another proctor of the evaluation).
 
+### Use of Generative AI Tools
+
+Generative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. Well-known examples include ChatGPT for text and DALL•E for images. The course policy described here governs all such tools, including those released during our semester together. You may use generative AI tools on assignments in this course only when we explicitly permit you to do so. Otherwise, you should refrain from using such tools. 
+
+If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite each tool you used, in the form shown for a hypothetical tool:
+
+    Intelligent Sage 3, version 3.1. Accessed from http://intelligentsage.com
+
+Additionally, please include a brief description of how you used the tool. Please include the prompt or prompts you gave the tool. Failure to cite the use of the tool as a source is a serious violation of academic integrity.  
+
+If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. 
+
+If you use generative AI tools to complete assignments in this course, in ways that I have not explicitly authorized, we will apply the course's policies on academic integrity appropriate to your specific case. In addition, you must be wary of unintentional plagiarism or fabrication of data. Please act with integrity, for the sake of both your personal character and your academic record.
+
 ### Consequences of Dishonesty
 
 If we believe you have acted dishonestly, including sharing or receiving code, we will communicate this fact to you and propose a penalty.
