@@ -1,6 +1,6 @@
-- topic: Introduction. World Wide What? A history.
+- topic: Welcome, Review
   date: 8/22/2023
-- topic: A brief history, Networks, and HTTP
+- topic: Asymptotics, Review proofs
   date: 8/24/2023
   readings:
       - topic: 
@@ -8,73 +8,81 @@
   lectures:
       - time: 
         link: 
-- topic: What is the web software model? 
-  date: 8/29/2023 
-- topic: What is important to consider when designing a website?
-  date: 8/31/2023
-- topic: Design, Introduction to HTML, How did we get here?
-  date: 9/5/2023
-- topic: History of HTML, HTML features, Designing HTML
-  date: 9/7/2023
-- topic: Cascading Style Sheets (CSS), Responsive design
-  date: 9/12/2023
-- topic: Extending CSS Scripting with LESS, SCSS
-  date: 9/14/2023
-- topic: SCSS, LESS, Bootstrap
-  date: 9/19/2023
-- topic: Markdown, XML, JSON
-  date: 9/21/2023
-- topic: Server-Side Processing
+- topic: Graphs
   type: header
-- topic: Server-side processing a history (CGI, Perl, PHP, Ruby, Python)
+- topic: Graphs, BFS
+  date: 8/29/2023 
+- topic: DFS, Topological Sorting
+  date: 8/31/2023
+- topic: Connected Components
+  date: 9/5/2023
+- topic: Dijkstra's Algorithm
+  date: 9/7/2023
+- topic: Divide and Conquer
+  type: header
+- topic: Divide and Conquer, Recurrences
+  date: 9/12/2023
+- topic: Recurrences, Applications
+  date: 9/14/2023
+- topic: Master Theorem
+  date: 9/19/2023
+- topic: Closest Pair of Points
+  date: 9/21/2023
+- topic: Parallelism, Quickselect
   date: 9/26/2023
-- topic: Introduction to PHP
+- topic: Greedy Algorithms 
+  type: header
+- topic: Greedy Algorithms, Change Making
   date: 9/28/2023
-- topic: Fall Reading Days 
+- topic: Fall Reading Days
   type: holiday 
   date: 10/3/2023
-- topic: PHP arrays, forms, Regular expressions
+- topic: Quiz 1 (Graphs), Quiz 2 (D&C)
   date: 10/5/2023
-- topic: Data processing files (CSV, JSON, XML), APIs
+  type: exam
+- topic: Huffman Coding
   date: 10/10/2023
-- topic: Object-oriented PHP, Front Controller Design, Maintaining state
+- topic: Greedy Knapsack
   date: 10/12/2023
-- topic: Maintaining state, Databases
+- topic: Minimum Spanning Trees
   date: 10/17/2023
-- topic: Databases, Frameworks
-  date: 10/19/2023 
-- topic: Client-Side Processing
+- topic: Dynamic Programming 
   type: header
-- topic: Client-side scripting Introduction to JavaScript
+- topic: Dynamic Programming, Log Cutting
+  date: 10/19/2023 
+- topic: DP2
   date: 10/24/2023
-- topic: JavaScript arrays, functions, objects
+- topic: DP3
   date: 10/26/2023
-- topic: JavaScript DOM, events, forms
+- topic: DP4
   date: 10/31/2023
-- topic: JavaScript DOM, events, local storage
+- topic: Network Flow 
+  type: header
+- topic: Max Flow, Min Cut
   date: 11/2/2023
-- topic: Election Day 
+- topic: Election Day
   type: holiday 
   date: 11/7/2023
-- topic: AJAX calls with PHP and JSON, JQuery
+- topic: Quiz 3 (Greedy), Quiz 4 (DP)
   date: 11/9/2023
-- topic: Client-side Frameworks
-  type: header
-- topic: JQuery, TypeScript, Intro to frameworks
+  type: exam
+- topic: Reductions
   date: 11/14/2023
-- topic: Introduction to Angular
+- topic: Worst Case Lower Bound Proofs 
   date: 11/16/2023
-- topic: Angular Forms, Data binding
+- topic: Hardness, Completeness
   date: 11/21/2023
-- topic: Thanksgiving 
+- topic: Thanksgiving
   type: holiday 
   date: 11/23/2023
-- topic: Angular HttpClient, Services
+- topic: Machine Learning 
+  type: header
+- topic: Machine Learning 1
   date: 11/28/2023
-- topic: Project Presentations / Showcase
+- topic: Machine Learning 2
   date: 11/30/2023
-- topic: What does the future of the web look like?
+- topic: ML, Ethics, Finale
   date: 12/5/2023
-- topic: Final Exam (9am-12pm)
+- topic: Quiz 5 (NF, ML), Retakes (7-10pm)
   type: exam
-  date: 12/14/2023 
+  date: 12/12/2023 
