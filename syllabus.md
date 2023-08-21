@@ -32,6 +32,22 @@ Our TAs are students too, with duties and work outside of their TAing. Please do
 
 ### Course Meetings
 
+This semester CS3100 will use some part of lecture time for collaborative learning, which will require students to be present.
+
+- “Collaborative” means interacting with the professor, possibly TAs, and each other.  “Interacting” will primarily be problem-solving.
+- We believe students learn better coming to class and keeping up with lectures, though we recognize the many benefits of recording lectures.
+
+On some days, part of course meetings will be used for an in-class activity (IC). There will be at least one per unit of the course, perhaps more.  Students will do activities in small groups, and each student will write individual responses on a worksheet which will be turned in before leaving class. The activities will be about problem-solving, and the instructor will support student work, discussing approaches and possibly solutions.
+
+The worksheets will be graded largely on making a good effort.  In total, the scores for all ICs will be worth 5% of the overall grade. One IC score will be dropped.
+
+There is no penalty for missing an IC as long as the student works on the problems by themself and submits the worksheet by 9:00 AM on the 2nd day after the missed class.
+
+We will not announce in advance when an IC will take place.  While normal lectures will be recorded, these in-class activities will not be.
+
+
+
+
 
 ### Practicing and Measuring Learning
 
@@ -41,6 +57,8 @@ The primary kinds of tasks are:
 
 #### Programming Assignments (PAs)
 
+
+
 #### Problem Sets (PSs) 
 
 #### In-Class Activities (ICs)
@@ -48,9 +66,16 @@ The primary kinds of tasks are:
 #### LaTeX Warm-up
 
 #### Quizzes
-- Quizzes will be in-class and must be taken in person.
+- Quizzes will be in-class and must be taken in person.  They will be closed-book, closed-note, no Internet access, etc.
+- See the schedule for the dates.  On a day in early October before the drop deadline, quizzes on units 1 and 2 will be given.  On a day in early November, quizzes on units 3 and 4 will be given.  During the final exam period, the quiz on unit 5 will be given.
+- Also during the final exam period, students will have the opportunity to make up some number of points that were missed on the first four quizzes. This opportunity will only be available if the student made a reasonable first attempt on the quiz.
+- For a quiz's retake, 2 or 3 questions worth 30 points will be given, and the points earned will replace up to 30 missing points from the first attempt on that quiz. 
 
-### Textbook and Readings 
+### Textbook and Readings
+
+We will assign readings from the "CLRS" textbook:  Introduction to Algorithms, by Cormen, Leiserson, Rivest and Stein, 4th Edition. (3rd edition is OK, but is missing some new material.) The book is available for free for UVA users in an online format through the UVA Library at [this link](https://ebookcentral-proquest-com.proxy1.library.virginia.edu/lib/UVA/detail.action?docID=6925615).
+
+There may be additional readings from online sources.
 
 
 ### Coding
